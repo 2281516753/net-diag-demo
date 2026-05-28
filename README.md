@@ -1,6 +1,12 @@
 # Network Diagnostics Dashboard
 
-A full-stack network diagnostics web application built with **Flask + AI-assisted development** (Hermes Agent + DeepSeek V4).
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-✓-000000?logo=flask)](https://flask.palletsprojects.com/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-✓-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-✓-FF6384?logo=chartdotjs)](https://www.chartjs.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+A full-stack network diagnostics web application built with **Flask + AI-assisted development** (Hermes Agent + DeepSeek V4). Monitor WSL system health and network connectivity from a single dashboard.
 
 ## What It Does
 
@@ -83,3 +89,11 @@ This entire project was generated and refined through conversation with **Hermes
 - Created the project documentation
 
 > Submitted as part of Xiaomi MiMo 100T Token Grant for Builders application.
+
+## Author
+
+Wang Jiong — Network Engineering student, cloud computing enthusiast.
+
+## License
+
+MIT
